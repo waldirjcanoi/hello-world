@@ -7,3 +7,5 @@ This repository is intended to be part of the resources to work on the Kwiz proj
 Now the Kwiz project will set a change log to keep track of the updated and new features.
 
 added change log file.
+
+added versioning file.
